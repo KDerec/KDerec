@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Kévin Dérécusson</h1>
-<h2 align="center">An happy Django Web developer from France.</h2>
+<h3 align="center">An happy Django Web developer from France.</h3>
 
 👨‍💻 I'm currently in training until 2022 November and today, I learn **Django Rest Framework, TDD, Django ORM, PostgreSQL.**</br>
 💬 If you want to discuss, feel free to contact me !
