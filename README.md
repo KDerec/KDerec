@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Kévin Dérécusson</h1>
 <h3 align="center">An happy Python software developer from France.</h3>
 
-🌱 I'm currently in training until 2022 November to improve my skills in **software developement in Python** and get a Bachelor's-level diploma.  
+🌱 I'm currently in training until 2022 November to improve my skills in **software developement with Python** and get a Bachelor's-level diploma.  
 By completing this path, I develop the following competencies:
 
 - Set up a development environment using virtual environments and Visual Studio Code.
@@ -11,16 +11,16 @@ By completing this path, I develop the following competencies:
 - Use technologies like GitHub, Postman, **HTML**, **CSS**, **JavaScript**, and **CircleCI**.
 - ...and much more!
 
-💬 If you want to discuss, feel free to reach me at **kevin.derecusson@outlook.fr** !
+💬 If you want to discuss, feel free to reach me at **kevin.derecusson@outlook.fr** or with the following social networks :
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kévin-dérécusson-3a24111b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kévin-dérécusson-3a24111b7" height="30" width="40" /></a>
 <a href="https://twitter.com/kderecusson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kderecusson" height="30" width="40" /></a>
 <a href="https://discord.gg/2845" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2845" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
