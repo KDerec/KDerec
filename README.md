@@ -1,8 +1,17 @@
 <h1 align="center">Hi 👋🏼, I'm Kévin Dérécusson</h1>
-<h3 align="center">An happy Django Web developer from France.</h3>
+<h3 align="center">An happy Python software developer from France.</h3>
 
-👨‍💻 I'm currently in training until 2022 November and today, I learn **Django Rest Framework, TDD, Django ORM, PostgreSQL.**</br>
-💬 If you want to discuss, feel free to contact me !
+🌱 I'm currently in training until 2022 November to improve my skills in **software developement in Python** and get a Bachelor's-level diploma.  
+By completing this path, I develop the following competencies:
+
+- Set up a development environment using virtual environments and Visual Studio Code.
+- Create web applications using the **Django** and **Django REST frameworks**.
+- Develop a secure **PostgreSQL** database.
+- Enhance applications with **testing**, **debugging**, and **refactoring**.
+- Use technologies like GitHub, Postman, **HTML**, **CSS**, **JavaScript**, and **CircleCI**.
+- ...and much more!
+
+💬 If you want to discuss, feel free to reach me at **kevin.derecusson@outlook.fr** !
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
