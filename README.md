@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Kévin Dérécusson</h1>
+<h1 align="center">Hi 👋🏻, I'm Kévin Dérécusson</h1>
 <h3 align="center">An happy Python software developer from France.</h3>
 
 🌱 I'm currently in training until 2022 November to improve my skills in **software developement with Python** and get a Bachelor's-level diploma.  
