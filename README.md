@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Kévin Dérécusson</h1>
-<h3 align="center">An happy Python software developer from France.</h3>
+<h3 align="center">A happy Web developer from France.</h3>
 
 🌱 I'm currently in training until December 2022 to improve my skills in **software developement with Python** and get a Bachelor's-level diploma.  
 By completing this path, I develop the following competencies:
