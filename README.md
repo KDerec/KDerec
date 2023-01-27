@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋🏻, I'm Kévin Dérécusson</h1>
-<h3 align="center">A happy Django Web developer from France.</h3>
+<h3 align="center">A happy creator of IT solutions with agile methodologies from France.</h3>
 
 What I can do your you ? :
 
 - Set up a development environment using virtual environments and Visual Studio Code.
+- Manage a project with **agile methodologies** and prototype a technical solution with domain models and mock-ups.
 - Create web applications using the **Django** and **Django REST frameworks**.
 - Develop a secure **PostgreSQL** database.
 - Enhance applications with **testing**, **debugging**, and **refactoring**.
