@@ -15,8 +15,8 @@ What I can do your you ? :
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kévin-dérécusson-3a24111b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kévin-dérécusson-3a24111b7" height="30" width="40" /></a>
-<a href="https://twitter.com/kderecusson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kderecusson" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kevin-derecusson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kévin-dérécusson-3a24111b7" height="30" width="40" /></a>
+<a href="https://twitter.com/kevinderecusson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kderecusson" height="30" width="40" /></a>
 <a href="https://discord.com/invite/#2845" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2845" height="30" width="40" /></a>
 </p>
 
